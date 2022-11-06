@@ -1,6 +1,6 @@
 ## Task AT Hand
 
-This Social Network driven app, where users can share thoughts, react to friends’ thoughts, and also create a friend list.
+This Social Network driven app, where users can share thoughts, react to friends thoughts, and also create a friend list.
 
 ## User Story
 
