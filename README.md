@@ -40,3 +40,6 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 * GitHub: https://github.com/ssavane26
 
 ## Videos
+
+https://user-images.githubusercontent.com/106548100/200193840-f942f6b8-bfb4-4329-9ff7-646f4ce0e7fe.mp4
+
