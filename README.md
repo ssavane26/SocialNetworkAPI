@@ -1,3 +1,6 @@
+## Task AT Hand
+
+This Social Network driven app, where users can share thoughts, react to friends’ thoughts, and also create a friend list.
 
 ## User Story
 
@@ -9,12 +12,12 @@ SO THAT my website can handle large amounts of unstructured data
 
 ## Table of Contents
 
-  - [Installation](#installation)
-  - [Acceptance Criteria](#acceptance-criteria)
+  - [Technology Used](#technology-used)
+  - [The Run Down](#the-run-down)
   - [Links](#links)
   - [Videos](#videos)
 
-## Installation
+## Technology Used
 
 * Express.js
 * MongoDB
