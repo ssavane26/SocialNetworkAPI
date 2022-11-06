@@ -49,5 +49,9 @@ Thoughts WalkThrough
 
 https://user-images.githubusercontent.com/106548100/200193929-d1523201-13ea-4707-8211-425eed295030.mp4
 
+Reactions & Friends WalkThrough
+
+https://user-images.githubusercontent.com/106548100/200193976-29eeb4d2-1332-4acd-aebc-a4ab63285a0c.mp4
+
 
 
