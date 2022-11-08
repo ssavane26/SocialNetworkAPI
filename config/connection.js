@@ -6,3 +6,5 @@ connect('mongodb://localhost/socialDB', {
 });
 
 module.exports = connection;
+
+// establishing connection
